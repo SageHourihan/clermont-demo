@@ -35,7 +35,7 @@ function displayDemoShips(ships) {
 
 function addDemoShipMarker(ship) {
     var icon = L.icon({
-        iconUrl: '/clermont/assets/cargo-ship.png',
+        iconUrl: 'cargo-ship.png',
         iconSize: [30, 30],
         iconAnchor: [16, 32],
         popupAnchor: [0, -32]
