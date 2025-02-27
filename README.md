@@ -1,6 +1,6 @@
 # clermont-demo
 
-This is a **static demo** of  **Claremont** , a marine vessel tracking tool. It showcases the interactive map and historical route features without requiring a backend. The demo is hosted on  **GitHub Pages**.
+This is a **static demo** of  **Clermont** , a marine vessel tracking tool. It showcases the interactive map and historical route features without requiring a backend. The demo is hosted on  **GitHub Pages**.
 
 ## Live Demo
 
