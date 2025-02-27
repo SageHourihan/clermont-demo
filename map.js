@@ -76,7 +76,7 @@ function plotShipData(shipData) {
 
         // Define a custom icon
         var shipIcon = L.icon({
-            iconUrl: '/clermont/assets/cargo-ship.png',  // Path to your custom icon image
+            iconUrl: 'cargo-ship.png',  // Path to your custom icon image
             iconSize: [30, 30],  // Size of the icon
             iconAnchor: [16, 32],  // Point of the icon that will correspond to the marker's location
             popupAnchor: [0, -32]  // Offset for the popup (optional)

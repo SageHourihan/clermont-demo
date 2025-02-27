@@ -22,7 +22,7 @@ $(document).ready(function () {
 
 
 let routePolyline; // Store the polyline to manage it later
-let markers = []; // Store markers for later removal
+// let markers = []; // Store markers for later removal
 
 function plotRoute(historicalData) {
     // Clear existing markers
