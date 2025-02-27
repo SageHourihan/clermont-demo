@@ -1,0 +1,16 @@
+{
+    "ships": [
+      {
+        "mmsi": 123456789,
+        "name": "Atlantic Voyager",
+        "type": "Cargo",
+        "lat": 42.303150,
+        "lon": -83.086853,
+        "course": 125,
+        "speed": 12.5,
+        "destination": "New York",
+        "eta": "2025-03-01T14:30:00",
+        "status": "moored"
+      }
+    ]
+  }
